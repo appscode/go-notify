@@ -7,6 +7,8 @@
 # go-notify
 Send notification via Email, SMS, Chat etc.
 
+**This repo has been permanently moved to [gomodules.xyz/go-notify](https://github.com/gomodules/notify)**
+
 ### Supported Email Providers
 - [x] Mailgun
 - [x] SMTP
